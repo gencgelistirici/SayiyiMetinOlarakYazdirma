@@ -1,0 +1,10 @@
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\bin\Debug\SayiyiMetinOlarakYazdirma.exe.config
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\bin\Debug\SayiyiMetinOlarakYazdirma.exe
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\bin\Debug\SayiyiMetinOlarakYazdirma.pdb
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.csprojResolveAssemblyReference.cache
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.Form1.resources
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.Properties.Resources.resources
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.csproj.GenerateResource.Cache
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.csproj.CoreCompileInputs.cache
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.exe
+E:\Csharp\SayiyiMetinOlarakYazdirma\SayiyiMetinOlarakYazdirma\obj\Debug\SayiyiMetinOlarakYazdirma.pdb
